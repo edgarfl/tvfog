@@ -1,0 +1,327 @@
+#EXTM3U
+
+#COSTA RICA
+
+[cite_start]#EXTINF:-1 tvg-id="Canal1.cr" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="COSTA RICA",Canal 1 [cite: 1]
+[cite_start]https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8 [cite: 1]
+
+[cite_start]#EXTINF:-1 tvg-id="Canal2.cr" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="COSTA RICA",Canal 2 [cite: 1]
+[cite_start]https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8 [cite: 1]
+
+[cite_start]#EXTINF:-1 tvg-id="Canal3KMKTV.cr" tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="COSTA RICA",Canal 3 [cite: 1]
+[cite_start]https://cloudvideo.servers10.com:8081/8120/index.m3u8 [cite: 1]
+
+[cite_start]#EXTINF:-1 tvg-id="Canal4.cr" tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="COSTA RICA",Canal 4 [cite: 1]
+[cite_start]https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8 [cite: 1]
+
+[cite_start]#EXTINF:-1 tvg-id="Canal6.cr" tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="COSTA RICA",Canal 6 [cite: 1]
+[cite_start]https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8 [cite: 1]
+
+[cite_start]#EXTINF:-1 tvg-id="Canal8.cr" tvg-logo="https://i.imgur.com/nefPi2Y.png" group-title="COSTA RICA",Canal 8 [cite: 1]
+[cite_start]https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8 [cite: 1]
+
+[cite_start]#EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-logo="https://i.imgur.com/7HbISMV.png" group-title="COSTA RICA",TV Sur Canal 9 [cite: 1]
+[cite_start]http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8 [cite: 1]
+
+[cite_start]#EXTINF:-1 tvg-id="Canal11.cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png" group-title="COSTA RICA",Canal 11 [cite: 1]
+[cite_start]https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8 [cite: 1]
+
+[cite_start]#EXTINF:-1 tvg-id="canal 13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuaZ8JxTXa4WpmKbUBQ86BLsNUGWU1bdsW2w&s" group-title="COSTA RICA",canal 13 [cite: 1]
+[cite_start]https://live-c.cf.dmcdn.net/sec2(tIYui2RZ-KDXm_wSMTRXiOI5cADu0sGyL0qcTou-g84hu-PED-ruR3J_Ae6oaxbxMCKCCMJewS2n2XhycWbfXuKhbw7Cc2eF4cg4-wehs_wuQXQnWgQ_9JH1w7AL7Tdi)/dm/3/x7vh8g3/d/live-480.m3u8 [cite: 1]
+
+[cite_start]#EXTINF:-1 tvg-id="Canal17TVNosara.cr" tvg-logo="https://i.imgur.com/pqMTMgF.jpg" group-title="COSTA RICA",Canal 17 TV Nosara [cite: 1]
+[cite_start]https://acceso.radiosportstv.online:3430/hybrid/play.m3u8 [cite: 1]
+
+[cite_start]#EXTINF:-1 tvg-id="Trivision36.cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Trivisi%C3%B3n_36_-_Logo.png" group-title="COSTA RICA",Trivision36 [cite: 1]
+[cite_start]https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8 [cite: 1]
+
+[cite_start]#EXTINF:-1 tvg-id="OPA.cr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPwwoSeqz9zdErwowQvRAJXziiWllOuAirhA&s" group-title="COSTA RICA",¡OPA!38 [cite: 1]
+[cite_start]https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/chunklist_w1486373510.m3u8 [cite: 1]
+
+[cite_start]#EXTINF:-1 tvg-id="NicoyaTV.cr" tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="COSTA RICA",NicoyaTV [cite: 1]
+[cite_start]https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8 [cite: 1]
+
+[cite_start]#EXTINF:-1 tvg-id="TVSantaCruz.cr" tvg-logo="https://i.ibb.co/wdqZVDB/Logotvsc-2.png" group-title="COSTA RICA",TV Santa Cruz [cite: 1]
+[cite_start]https://rtmp.info/tvsantacruz/envivo/playlist.m3u8 [cite: 1]
+
+[cite_start]#EXTINF:-1 tvg-id="ColosalTV.cr" tvg-logo="https://i.imgur.com/0DZB3eB.png" group-title="COSTA RICA",Colosal TV [cite: 1]
+[cite_start]http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8 [cite: 1]
+
+[cite_start]#EXTINF:-1 tvg-id="CotoBrusTV.cr" tvg-logo="https://i.ibb.co/vJZqrFY/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" group-title="COSTA RICA",Coto Brus TV [cite: 1]
+[cite_start]https://cloudvideo.servers10.com:8081/8030/index.m3u8 [cite: 1]
+
+[cite_start]#EXTINF:-1 tvg-id="GarabitoTV.cr" tvg-logo="https://i.imgur.com/sAYNKJ8.png" group-title="COSTA RICA",Garabito TV [cite: 1]
+[cite_start]https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8 [cite: 1]
+
+[cite_start]#EXTINF:-1 tvg-id="GuatusoTV.cr" tvg-logo="https://www.grupodgrajal.com/images/logoguatusochannel.png" group-title="COSTA RICA",Guatuso TV [cite: 1]
+[cite_start]https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8 [cite: 1]
+
+[cite_start]#EXTINF:-1 tvg-id="LimonTV.cr" tvg-logo="https://i.ibb.co/rdpcv7C/1689421727166.jpg" group-title="COSTA RICA",Limon TV [cite: 1, 2]
+[cite_start]http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8 [cite: 2]
+
+[cite_start]#EXTINF:-1 tvg-id="LosSantosTV.cr" tvg-logo="https://i.imgur.com/5xw86wu.png" group-title="COSTA RICA",Los Santos TV [cite: 2]
+[cite_start]https://lstv.duckdns.org:449/hls/lstv.m3u8 [cite: 2]
+
+[cite_start]#EXTINF:-1 tvg-id="MetaVersusCR.cr" tvg-logo="https://i.imgur.com/BKkljlc.png" group-title="COSTA RICA",MetaVersus CR [cite: 2]
+[cite_start]https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8 [cite: 2]
+
+[cite_start]#EXTINF:-1 tvg-id="NorteInformativoTV.cr" tvg-logo="https://i.ibb.co/2MNzXN7/Channels4-profile-9.jpg" group-title="COSTA RICA",Norte Informativo TV [cite: 2]
+[cite_start]https://videohd.live:19360/8076/8076.m3u8 [cite: 2]
+
+[cite_start]#EXTINF:-1 tvg-id="SanJoseTV.cr" tvg-logo="https://i.ibb.co/mbB8hqL/blanco-crop.png" group-title="COSTA RICA",San Jose TV [cite: 2]
+[cite_start]https://rtmp.info/sanjosetv/envivo/playlist.m3u8 [cite: 2]
+
+[cite_start]#EXTINF:-1 tvg-id="TDtv.cr" tvg-logo="https://i.imgur.com/OFSOvpd.jpg" group-title="COSTA RICA",TDtv [cite: 2]
+[cite_start]https://cloudvideo.servers10.com:8081/8230/index.m3u8 [cite: 2]
+
+[cite_start]#EXTINF:-1 tvg-id="TeleBrunca.cr" tvg-logo="https://i.imgur.com/m3xu6Ms.png" group-title="COSTA RICA",TeleBrunca [cite: 2]
+[cite_start]https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8 [cite: 2]
+
+[cite_start]#EXTINF:-1 tvg-id="TeleSURCostaRica.cr" tvg-logo="https://i.imgur.com/KUpgeOf.png" group-title="COSTA RICA",TeleSUR [cite: 2]
+[cite_start]https://s1.tvdatta.com:3582/live/telesurlive.m3u8 [cite: 2]
+
+[cite_start]#EXTINF:-1 tvg-id="TeleUno.cr" tvg-logo="https://i.imgur.com/eRwYxc2.png" group-title="COSTA RICA",Tele Uno [cite: 2]
+[cite_start]http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8 [cite: 2]
+
+[cite_start]#EXTINF:-1 tvg-id="TVLegislativa.cr" tvg-logo="https://i.imgur.com/hmRkAIf.png" group-title="COSTA RICA",TV Legislativa [cite: 2]
+[cite_start]https://ythls.armelin.one/channel/UCWN0rIWneMdqRmZ4yHs5GuA.m3u8 [cite: 2]
+
+[cite_start]#EXTINF:-1 tvg-id="TVN14.cr" tvg-logo="https://i.imgur.com/1aNEo6U.png" group-title="COSTA RICA",TVN 14 [cite: 2]
+[cite_start]http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8 [cite: 2]
+
+[cite_start]#EXTINF:-1 tvg-id="ZurquiTV.cr" tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="COSTA RICA",Zurqui TV [cite: 2]
+[cite_start]https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8 [cite: 2]
+
+[cite_start]#EXTINF:-1 tvg-id="CristoVisionCanal31.cr" tvg-logo="https://i.imgur.com/CFXZ8j0.png" group-title="COSTA RICA",Cristo Vision Canal [cite: 2]
+[cite_start]https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8 [cite: 2]
+
+[cite_start]#EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="COSTA RICA",Extrema TV [cite: 2]
+[cite_start]https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8 [cite: 2]
+
+[cite_start]#EXTINF:-1 tvg-id="LuzNacienteTV.cr" tvg-logo="https://i.imgur.com/GC2lubh.png" group-title="COSTA RICA",Luz Naciente TV [cite: 2]
+[cite_start]https://streeming.protoscr.com:3858/live/streeminglive.m3u8 [cite: 2]
+
+[cite_start]#EXTINF:-1 tvg-id="Telefides.cr" tvg-logo="https://i.ibb.co/yn5M8dw/telefides-costa-rica.png" group-title="COSTA RICA",Telefides [cite: 2]
+[cite_start]https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8 [cite: 2]
+
+[cite_start]#EXTINF:-1 tvg-id="extratv" tvg-logo="https://www.extratvcr.com/wp-content/uploads/2024/11/Extra-TV-1280x800-1.png" group-title="COSTA RICA",Extra TV [cite: 2]
+[cite_start]https://d2axu5ozwr5gk0.cloudfront.net/live2/gxtra-cr-dxtra-tv_720p/chunks.m3u8?C2Findex.m3u8 [cite: 2]
+
+
+#ANIME
+
+[cite_start]#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="ANIME",Anime TV (360p) [Not 24/7] [cite: 2]
+[cite_start]https://stmv1.srvif.com/animetv/animetv/playlist.m3u8 [cite: 2]
+
+[cite_start]#EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="ANIME",MAX Anime (720p) [cite: 2]
+[cite_start]https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8 [cite: 2]
+
+[cite_start]#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="ANIME",Locomotion TV (480p) [Not 24/7] [cite: 3]
+[cite_start]http://51.222.85.85:81/hls/loco/index.m3u8 [cite: 3]
+
+[cite_start]#EXTINF:-1 tvg-id="ANIMESTATION.ar" tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="ANIME",ANIMESTATION (Argentina) (720p) [cite: 3]
+[cite_start]https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8 [cite: 3]
+
+
+#PELICULAS
+
+[cite_start]#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="PELICULAS",24 Hour Free Movies (720p) [cite: 3]
+[cite_start]https://d1j2u714xk898n.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/145.m3u8 [cite: 3]
+
+[cite_start]#EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="PELICULAS",MyTime Movie Network [cite: 3]
+[cite_start]https://mytime-tcl.amagi.tv/playlist.m3u8 [cite: 3]
+
+[cite_start]#EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="PELICULAS",MyTime Movie Network Mexico (720p) [cite: 3]
+[cite_start]https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8 [cite: 3]
+
+[cite_start]#EXTINF:-1 tvg-id="" tvg-logo="https://variety.com/wp-content/uploads/2014/08/amc-logo.jpg?w=1000&h=667&crop=1" group-title="PELICULAS",AMC en español [cite: 3]
+[cite_start]http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62fa81ccd1a7e90007c1ada0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268073-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6f5fd68-d238-461a-85d9-c326f4f63ae9 [cite: 3]
+
+[cite_start]#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLsMoMy_TQqlnG8MB8PrhYMDSQvPzHNvIgPw&s" group-title="PELICULAS",Hallmark en español [cite: 3]
+[cite_start]http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6532e7b290a74c00084a3bb6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291885-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=abaa1d27-e975-4a86-be91-f282e0832a1c [cite: 3]
+
+[cite_start]#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="PELICULAS",Azteca Internacional (1080p) [cite: 3]
+[cite_start]https://azt-mun.otteravision.com/azt/mun/mun.m3u8 [cite: 3]
+
+[cite_start]#EXTINF:-1 tvg-id="NexxoTV.do" tvg-logo="https://i.imgur.com/2OpCxa6.png" group-title="PELICULAS",Nexxo TV (720p) [Not 24/7] [cite: 3]
+[cite_start]https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8 [cite: 3]
+
+[cite_start]#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="PELICULAS",TVE Internacional America (1080p) [cite: 3]
+[cite_start]https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8 [cite: 3]
+
+[cite_start]#EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="PELICULAS",Cine Sony (720p) [cite: 3]
+[cite_start]https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8 [cite: 3]
+
+[cite_start]#EXTINF:-1 tvg-id="CINECANAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="PELICULAS",CINECANAL [cite: 3]
+[cite_start]http://201.182.248.254:8888/play/a07u/index.m3u8 [cite: 3]
+
+[cite_start]#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="PELICULAS",CINEMAX [cite: 3]
+[cite_start]http://201.182.248.254:8888/play/a0aa/index.m3u8 [cite: 3]
+
+[cite_start]#EXTINF:-1 tvg-id="DHE" tvg-logo="https://logowik.com/content/uploads/images/canal-dhe5540.logowik.com.webp" group-title="PELICULAS",DHE [cite: 3]
+[cite_start]http://201.182.248.254:8888/play/a09h/index.m3u8 [cite: 3]
+
+[cite_start]#EXTINF:-1 tvg-id="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="PELICULAS",FX HD [cite: 3]
+[cite_start]http://201.182.248.254:8888/play/a08m/index.m3u8 [cite: 3]
+
+[cite_start]#EXTINF:-1 tvg-id="UNIVERSAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="PELICULAS",UNIVERSAL HD [cite: 3]
+[cite_start]http://201.182.248.254:8888/play/a0az/index.m3u8 [cite: 3]
+
+[cite_start]#EXTINF:-1 tvg-id="CineramaTelevision.bo" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="PELICULAS",Cinerama TV (480p) [Not 24/7] [cite: 3]
+[cite_start]https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8 [cite: 3]
+
+[cite_start]#EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="PELICULAS",Imagen Universal TV [cite: 3]
+[cite_start]https://imagenuniversaltv.net:3771/live/iutvlive.m3u8 [cite: 3]
+
+[cite_start]#EXTINF:-1 tvg-id="MGMPlusEast.us" tvg-logo="https://i.imgur.com/S2VUrO8.png" group-title="PELICULAS",MGM+ East [cite: 3]
+[cite_start]http://fl2.moveonjoy.com/EPIX/index.m3u8 [cite: 3]
+
+[cite_start]#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="PELICULAS",Planeta TV (720p) [Not 24/7] [cite: 4]
+[cite_start]https://live.obslivestream.com/planetatv/index.m3u8 [cite: 4]
+
+[cite_start]#EXTINF:-1 tvg-id="AuroraMediaFilms.gt" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="PELICULAS",Aurora Media Films (720p) [cite: 4]
+[cite_start]https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8 [cite: 4]
+
+[cite_start]#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="PELICULAS",Las Estrellas [cite: 4]
+[cite_start]https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8 [cite: 4]
+
+[cite_start]#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSyIO1bWKsHjz_cBuX2D3RHALn1-uCsxhW-Q&s" group-title="PELICULAS",HBO [cite: 4]
+[cite_start]https://spinoff.link/live/m3u8.php?url=https://tv1.strm2234.xyz/hbo/index.m3u8 [cite: 4]
+
+[cite_start]#EXTINF:-1 tvg-id="19384" tvg-logo="https://w7.pngwing.com/pngs/733/502/png-transparent-tnt-series-turner-broadcasting-system-television-logo-comedy-miscellaneous-text-trademark.png" group-title="PELICULAS",TNT [cite: 4]
+[cite_start]https://spinoff.link/live/m3u8.php?url=https://tv1.strm2234.xyz/tnt/index.m3u8 [cite: 4]
+
+[cite_start]#EXTINF:-1 tvg-id="space" tvg-logo="https://pbs.twimg.com/profile_images/1843311268519616512/JjJEY1Tu_400x400.jpg" group-title="PELICULAS",space [cite: 4]
+[cite_start]https://spinoff.link/live/m3u8.php?url=https://tv1.strm2234.xyz/space/index.m3u8 [cite: 4]
+
+
+#CULTURA
+
+[cite_start]#EXTINF:-1 tvg-id="xxx" tvg-logo="https://cdn.shopify.com/s/files/1/0558/6413/1764/files/Discovery_Channel_Logo_Design_History_Evolution_3_1024x1024.jpg?v=1694070082" group-title="CULTURA",DISCOVERY HD [cite: 4]
+[cite_start]http://201.182.248.254:8888/play/a0ae/index.m3u8 [cite: 4]
+
+[cite_start]#EXTINF:-1 tvg-id="xxx" tvg-logo="https://commons.wikimedia.org/wiki/File:History_Logo.svg" group-title="CULTURA", History Channel [cite: 4]
+[cite_start]http://190.60.38.114:1010/play/a02a/index.m3u8 [cite: 4]
+
+[cite_start]#EXTINF:-1 tvg-id="xxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="CULTURA", History2 [cite: 4]
+[cite_start]http://190.60.38.114:1010/play/a04j/index.m3u8 [cite: 4]
+
+[cite_start]#EXTINF:-1 tvg-id="xxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/National-Geographic-Logo.svg/512px-National-Geographic-Logo.svg.png" group-title="CULTURA", Nat Geo [cite: 4]
+[cite_start]http://190.60.38.114:1010/play/a045/index.m3u8 [cite: 4]
+
+[cite_start]#EXTINF:-1 tvg-id="xxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Discovery_Home_%26_Health_logo.svg" group-title="CULTURA", Discovery H&H [cite: 4]
+[cite_start]http://190.60.38.114:1010/play/a06q/index.m3u8 [cite: 4]
+
+#SERIES
+
+[cite_start]#EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="SERIES",Imagen Universal TV [cite: 4]
+[cite_start]https://imagenuniversaltv.net:3771/live/iutvlive.m3u8 [cite: 4]
+
+[cite_start]#EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="SERIES",Love Nature (1080p) [cite: 4]
+[cite_start]https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8 [cite: 4]
+
+[cite_start]#EXTINF:-1 tvg-id="MilenialTV.pe" tvg-logo="https://i.imgur.com/8ZiNoEa.png" group-title="SERIES",Milenial TV [cite: 4]
+[cite_start]https://www.milenial.news/salida/milenial.m3u8 [cite: 4]
+
+[cite_start]#EXTINF:-1 tvg-id="PlutoTVLosarchivosdelFBI.us" tvg-logo="https://i.imgur.com/rBEnqyG.png" group-title="SERIES",Pluto TV Los archivos del FBI (720p) [cite: 4]
+[cite_start]https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId= [cite: 4]
+
+[cite_start]#EXTINF:-1 tvg-id="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="SERIES",AXN [cite: 4]
+[cite_start]https://streamer1.nexgen.bz/AXN/index.m3u8 [cite: 4]
+
+
+#NOTICIAS
+[cite_start]#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="NOTICIAS",DW Español (1080p) [cite: 5]
+[cite_start]https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8 [cite: 5]
+
+[cite_start]#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="NOTICIAS",Euronews en Español (720p) [cite: 5]
+[cite_start]https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8 [cite: 5]
+
+[cite_start]#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://i.imgur.com/ZnmAXVv.png" group-title="NOTICIAS",France 24 Español (1080p) [cite: 5]
+[cite_start]https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8 [cite: 5]
+
+[cite_start]#EXTINF:-1 tvg-id="NHKWorldEspanol.jp" tvg-logo="https://i.imgur.com/8dml3im.png" group-title="NOTICIAS",NHK World News (Spanish Subs) (720p) [cite: 5]
+[cite_start]https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8 [cite: 5]
+
+[cite_start]#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="NOTICIAS",AMX Noticias (720p) [Not 24/7] [cite: 5]
+[cite_start]https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8 [cite: 5]
+
+[cite_start]#EXTINF:-1 tvg-id="CNN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="NOTICIAS",CNN ESPAÑOL [cite: 5]
+[cite_start]http://201.182.248.254:8888/play/a0a8/index.m3u8 [cite: 5]
+
+#DEPORTES
+
+[cite_start]#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png" group-title="DEPORTES",NFL Network [cite: 5]
+[cite_start]http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8 [cite: 5]
+
+[cite_start]#EXTINF:-1 tvg-id="NFLChannel.us" tvg-logo="https://i.imgur.com/mPGtwAP.png" group-title="DEPORTES",NFL Channel [cite: 5]
+[cite_start]http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6 [cite: 5]
+
+[cite_start]#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="DEPORTES",NHL (1080p) [cite: 5]
+[cite_start]https://apollo.production-public.tubi.io/live/ac-nhl.m3u8 [cite: 5]
+
+[cite_start]#EXTINF:-1 tvg-id="NHRATV.us" tvg-logo="https://i.imgur.com/jZgcm4k.png" group-title="DEPORTES",NHRA TV (720p) [cite: 5]
+[cite_start]https://apollo.production-public.tubi.io/live/ac-nhra.m3u8 [cite: 5]
+
+[cite_start]#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",FOX Sports [cite: 5]
+[cite_start]http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f173-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46a3b8ff-5a4a-4952-bb4d-9461224acd54 [cite: 5]
+
+[cite_start]#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="DEPORTES",Fox Sports 1 [cite: 5]
+[cite_start]http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8 [cite: 5]
+
+[cite_start]#EXTINF:-1 tvg-id="FoxSports2.us" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="DEPORTES",Fox Sports 2 [cite: 5]
+[cite_start]http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8 [cite: 5]
+
+[cite_start]#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",beIN SPORTS XTRA [cite: 5]
+[cite_start]http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62b97ef310e33f0007eea65f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c794334-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=01b4faa7-f3ac-4f6d-9967-3f409d4c6863 [cite: 5]
+
+[cite_start]#EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-logo="https://i.imgur.com/uJosqHh.png" group-title="DEPORTES",beIN SPORTS XTRA [cite: 5]
+[cite_start]http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=cb932046-e001-4189-a871-1376aa2ec340 [cite: 5]
+
+[cite_start]#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DEPORTES",beIN SPORTS XTRA en español [cite: 5]
+[cite_start]http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5f89b39e-273a-43e4-8664-6b0d3d3b0fef [cite: 5]
+
+[cite_start]#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="DEPORTES",BeIN SPORTS XTRA En Espanol (720p) [cite: 5]
+[cite_start]https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8 [cite: 5]
+
+[cite_start]#EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="DEPORTES",Garage TV Latin America [cite: 5]
+[cite_start]https://stream1.sersat.com/hls/garagetv.m3u8 [cite: 5]
+
+
+#MUSICA
+
+[cite_start]#EXTINF:-1 tvg-id="VMLatino.cr" tvg-logo="https://i.imgur.com/Dvo1b82.png" group-title="MUSICA",VM Latino [cite: 6]
+[cite_start]https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8 [cite: 6]
+
+[cite_start]#EXTINF:-1 tvg-id="88Stereo.cr" tvg-logo="https://i.imgur.com/i3YwORV.png" group-title="MUSICA",88 Stereo [cite: 6]
+[cite_start]http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8 [cite: 6]
+
+[cite_start]#EXTINF:-1 tvg-id="TVPlus.cr" tvg-logo="https://i.ibb.co/MsjKNMJ/305398743-500202432109920-5029369673742325729-n-1.png" group-title="MUSICA",TV+ [cite: 6]
+[cite_start]https://59ef525c24caa.streamlock.net/Tvpluscr/Tvpluscr/playlist.m3u8 [cite: 6]
+
+[cite_start]#EXTINF:-1 tvg-id="IQChannel.cr" tvg-logo="https://i.imgur.com/hwuaomt.png" group-title="MUSICA",IQ Channel [cite: 6]
+[cite_start]https://rtmp.info/iqtv/envivo/playlist.m3u8 [cite: 6]
+
+[cite_start]#EXTINF:-1 tvg-id="XpressoJovenRadio.cr" tvg-logo="https://i.imgur.com/o7MCfuA.jpg" group-title="MUSICA",Xpresso Joven Radio [cite: 6]
+[cite_start]https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8 [cite: 6]
+
+[cite_start]#EXTINF:-1 tvg-id="VoiceOverRadioTV.cr" tvg-logo="https://i.imgur.com/HzGs1Eh.png" group-title="MUSICA",VoiceOver Radio TV [cite: 6]
+[cite_start]https://cloudvideo.servers10.com:8081/8198/index.m3u8 [cite: 6]
+
+[cite_start]#EXTINF:-1 tvg-id="VintageMusic.cr" tvg-logo="https://i2.paste.pics/508ad957b4f4585f59b0d4c265bbac61.png" group-title="MUSICA",Vintage Music [cite: 6]
+[cite_start]https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8 [cite: 6]
+
+[cite_start]#EXTINF:-1 tvg-id="VideoTourChannel.cr" tvg-logo="https://i.imgur.com/zEi8eMC.png" group-title="MUSICA",Video Tour Channel [cite: 6]
+[cite_start]http://k4.usastreams.com/videotour/videotour/playlist.m3u8 [cite: 6]
+
+[cite_start]#EXTINF:-1 tvg-id="UrbanoTV.cr" tvg-logo="https://i.imgur.com/KVVU9PI.png" group-title="MUSICA",Urbano TV [cite: 6]
+[cite_start]https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8 [cite: 6]
+
+[cite_start]#EXTINF:-1 tvg-id="SOYPlanchaTV.cr" tvg-logo="https://i.ibb.co/P4kpMgk/1689344714578.jpg" group-title="MUSICA",SOY Plancha TV [cite: 6]
+[cite_start]https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8 [cite: 6]
+
+[cite_start]#EXTINF:-1 tvg-id="RadioPuertoTV.cr" tvg-logo="https://i.imgur.com/Qc3iBp5.png" group-title="MUSICA",Radio Puerto TV [cite: 6]
+[cite_start]https://cloudvideo.servers10.com:8081/8256/index.m3u8 [cite: 6]
+
+[cite_start]#EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="MUSICA",Fox Soul [cite: 6]
+[cite_start]https://apollo.production-public.tubi.io/live/ac-fox-soul-scte.m3u8 [cite: 6]
