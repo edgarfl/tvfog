@@ -2,11 +2,11 @@
 
 #COSTA RICA
 
-[cite_start]#EXTINF:-1 tvg-id="Canal1.cr" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="COSTA RICA",Canal 1 [cite: 1]
-[cite_start]https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8 [cite: 1]
+[cite_start]#EXTINF:-1 tvg-id="Canal1.cr" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="COSTA RICA",Canal 1 
+[cite_start]https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8 
 
-[cite_start]#EXTINF:-1 tvg-id="Canal2.cr" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="COSTA RICA",Canal 2 [cite: 1]
-[cite_start]https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8 [cite: 1]
+[cite_start]#EXTINF:-1 tvg-id="Canal2.cr" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="COSTA RICA",Canal 2 
+[cite_start]https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8 
 
 [cite_start]#EXTINF:-1 tvg-id="Canal3KMKTV.cr" tvg-logo="https://i.imgur.com/sgRDRBK.jpg" group-title="COSTA RICA",Canal 3 [cite: 1]
 [cite_start]https://cloudvideo.servers10.com:8081/8120/index.m3u8 [cite: 1]
@@ -324,4 +324,5 @@
 [cite_start]https://cloudvideo.servers10.com:8081/8256/index.m3u8 [cite: 6]
 
 [cite_start]#EXTINF:-1 tvg-id="FoxSoul.us" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="MUSICA",Fox Soul [cite: 6]
+
 [cite_start]https://apollo.production-public.tubi.io/live/ac-fox-soul-scte.m3u8 [cite: 6]
